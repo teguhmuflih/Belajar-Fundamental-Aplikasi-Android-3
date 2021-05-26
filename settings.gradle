@@ -1,0 +1,4 @@
+rootProject.name = "bfaa_3"
+include ':app'
+include ':consumerapp'
+include ':consumerapp2'

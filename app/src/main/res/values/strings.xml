@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserGithub App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search_hint">Search Username on Github</string>
+    <string name="title_activity_git_user_detail">GitUserDetailActivity</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="no_result_found">No Data Found</string>
+    <string name="favorite">Favorite</string>
+    <string name="daily_reminder">Daily Reminder at 9 AM</string>
+    <string name="daily_message">Let\'s Find A GitHub Users!</string>
+    <string name="change_notification">Change Notification</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="reminder_setting">Reminder Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">User Name</string>
+    <string name="name">Name</string>
+</resources>
